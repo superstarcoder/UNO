@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #UNO card game by superstarcoder
+=======
+#very fun card game by superstarcoder: UNO
+>>>>>>> 986f554ff837f186a6a21c41709f0ddcfd7d5d50
 from random import randint
 import random, string
 input("welcome to UNO!You must choose 9 cards. In this game, there are 5 numbers.Click enter.")
@@ -72,6 +76,7 @@ def choose_card(your_cards, placed_cards):
 					return your_cards, placed_cards, draw_card
 
 
+#ask user to choose his or her card
 def you_choose_card(your_cards, placed_cards):
 	draw_card = 0
 	done = False
