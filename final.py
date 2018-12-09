@@ -1,4 +1,4 @@
-#card game: UNO
+#card game by superstarcoder: UNO
 from random import randint
 import random, string
 input("welcome to UNO!You must choose 9 cards. In this game, there are 5 numbers.Click enter.")
